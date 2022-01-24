@@ -9,7 +9,7 @@
         <h2> Приближеная модель Mersedes </h2>
         <a href="https://behruz2011.github.io/www.vision_gran_turismo.com/"/> Подробнее об этой машине </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mercedes-Benz_AMG_Vision_Gran_Turismo_LA.jpg/1024px-Mercedes-Benz_AMG_Vision_Gran_Turismo_LA.jpg"/>
-<a href="http://www.motorpage.ru/MercedesBenz/"> Все модели Mersedes</a>
+<a href="http://www.motorpage.ru/MercedesBenz/"> Все модели Mersedes </a>
 <footer>
             <p id="contacts"><b><i>Контакты</i></b></p>
             <p>Адрес: г. Звёздный, пр-кт. Экспериментальный, 21</p>
